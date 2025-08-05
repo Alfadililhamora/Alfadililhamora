@@ -19,6 +19,10 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
   <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere,aftereffects" />
 </p>
 
+---
+
+### 📁 Work Experience
+
 👨‍💼 President — De Code
 IT Programmer Community at Universitas Dehasen Bengkulu
 Led a university-based tech community by organizing workshops, coding sessions, and collaborative innovation projects.
