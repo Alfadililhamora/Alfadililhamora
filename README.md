@@ -22,7 +22,7 @@ I am a passionate Informatics student from Bengkulu, Indonesia, with a strong in
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,python,figma,photoshop,premiere,illustrator,coreldraw,kali,linux,vscode,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,wordpress,php,mysql,python,figma,photoshop,premiere,illustrator,kali,linux,vscode,canva" />
 </p>
 
 ---
