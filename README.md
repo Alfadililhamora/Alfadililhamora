@@ -31,8 +31,8 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ### 🎓 Education
 
-- **Universitas Dehasen Bengkulu** – Informatics  
-- **SMKN 1 Bengkulu Selatan** – Visual Communication Design (GPA: 3.50/4.00)
+- **Universitas Dehasen Bengkulu** – Informatics (GPA: 4.00/4.00)
+- **SMKN 1 Bengkulu Selatan** – Visual Communication Design (GPA: 3.80/4.00)
 
 ---
 
