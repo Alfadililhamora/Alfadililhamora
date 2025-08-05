@@ -44,7 +44,7 @@ Completed a cybersecurity course focused on ethical hacking, penetration testing
 
 👨‍💼 President — De Code
 IT Programmer Community at Universitas Dehasen Bengkulu
-Led a university-based tech community by organizing workshops, coding sessions, and collaborative innovation projects.
+Led a university-based tech community by organizing workshops, mentoring bootcamp, and collaborative innovation projects.
 
 🛡️ Cyber Security Team Leader — De Exploitz
 Student-led Cybersecurity Team
