@@ -28,6 +28,18 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ---
 
+### 📄 Certifications
+🐍 IT Specialist – Python (International Certification)
+Issued by Certiport / Pearson VUE – Validates foundational Python programming and problem-solving skills.
+
+🌐 MTCNA – MikroTik Certified Network Associate
+Certified by MikroTik – Covers essential knowledge in networking, routing, and MikroTik RouterOS configuration.
+
+🔐 Ethical Hacking Fundamentals
+Completed a cybersecurity course focused on ethical hacking, penetration testing basics, and system vulnerability analysis.
+
+---
+
 ### 📁 Work Experience
 
 👨‍💼 President — De Code
