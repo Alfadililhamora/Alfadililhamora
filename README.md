@@ -36,21 +36,18 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ---
 
-### 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfaaora&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfadililhamora&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfaaora&theme=react&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfadililhamora&theme=react&hide_border=true" alt="Streak Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaaora&layout=compact&theme=react&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadililhamora&layout=compact&theme=react&hide_border=true" alt="Top Langs" />
 </p>
 
----
 
 ### 📫 Let's Connect!
 
