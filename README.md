@@ -1,9 +1,10 @@
 <h1 align="center">Hi there! 👋, I'm Alfadil Ilhamora</h1>
-<h3 align="center">Cyber Security | IoT Enthusiast | Full Stack Developer | Mobile App Developer</h3>
+<h3 align="center">Welcome to my GitHub! | Cyber Security | IoT Enthusiast | Full Stack Developer | Mobile App Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Cyber+Security+%F0%9F%94%92;IoT+Enthusiast+%F0%9F%9A%80;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+and+Building+%F0%9F%92%AA" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub!;Cyber+Security+%F0%9F%94%92;IoT+Enthusiast+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Mobile+App+Developer+%F0%9F%93%B1;Always+Learning+and+Building+%F0%9F%92%AA" alt="Typing SVG" />
 </p>
+
 
 ---
 
