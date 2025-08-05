@@ -16,7 +16,7 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,vmware,burpsuite,wireshark,vscode,html,css,js,mysql,python,figma,canva,photoshop,illustrator,lightroom,premiere,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,figma,photoshop,illustrator,premiere,aftereffects" />
 </p>
 
 ---
