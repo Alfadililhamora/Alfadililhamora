@@ -36,39 +36,6 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ---
 
-### 💼 Experience
-
-**🔧 BengkuluEkspress.com**  
-_MCR | Graphic Designer | Article Writer | Video Editor_  
-• Managed live broadcast & technical quality  
-• Designed visual content & social media materials  
-• Wrote & published news articles  
-• Edited video for YouTube & Instagram
-
-**📰 APKASINDO - Asosiasi Petani Kelapa Sawit Indonesia**  
-_Journalist - Bengkulu Representative_  
-• Reported palm oil sector issues  
-• Conducted interviews  
-• Built stakeholder networks
-
-**👨‍💻 De Code – Programmer Community at Dehasen University**  
-_HRD Leader_  
-• Recruited & trained new members  
-• Organized workshops & bootcamps  
-• Led leadership development programs
-
----
-
-### 📄 Certificates
-
-- ✅ *Visual Communication Design Competency* – SMKN 1 x CV Fajar Advertising  
-- ✅ *Internship Completion* – BengkuluEkspress.com  
-- ✅ *English Olympiad Finalist* – Global House  
-- ✅ *Introduction to Cybersecurity & Threat Intelligence* – Merdeka Siber  
-- ✅ *Basic Spatial Programming with Python* – Planning Concept
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
