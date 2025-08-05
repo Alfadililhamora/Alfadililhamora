@@ -8,13 +8,7 @@
 ---
 
 ### 📍 About Me
-I am a passionate Informatics student from Bengkulu, Indonesia, with a strong interest in technology and its development. I believe that technology is a powerful driver of progress and innovation. My focus areas include:
-
-- 📷 **Photography & Videography**
-- 🎞 **Photo & Video Editing**
-- 🛡️ **Cyber Security**
-- 🧠 **UI/UX Design**
-- 💻 **Full Stack Development**
+ am a student at the Faculty of Computer Science, Dehasen University Bengkulu, with a strong interest in the development of science and technology, particularly in the field of computer technology. I have skills in Cyber Security (Penetration Testing), Web Development, and am currently learning about the Internet of Things (IoT). I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
