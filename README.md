@@ -19,7 +19,17 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
   <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere,aftereffects" />
 </p>
 
+👨‍💼 President — De Code
+IT Programmer Community at Universitas Dehasen Bengkulu
+Led a university-based tech community by organizing workshops, coding sessions, and collaborative innovation projects.
 
+🛡️ Cyber Security Team Leader — De Exploitz
+Student-led Cybersecurity Team
+Directed cybersecurity simulations, penetration testing training, and internal CTF competitions for skill development.
+
+🎨 Graphic Designer — BengkuluEkspress.com
+Online News & Print Media Company
+Designed promotional visuals, social media content, and editorial graphics to support digital and print publications.
 
 ---
 
