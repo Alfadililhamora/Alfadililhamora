@@ -81,7 +81,7 @@ Designed promotional visuals, social media content, and editorial graphics to su
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRza3JtcG5zdGx1bDNhdGczNWpiNWVqYXVrZDA0aThsZG5hdTBoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Anime Coding" width="400"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Chibi Hacker" width="300" />
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
