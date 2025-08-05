@@ -61,9 +61,4 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 
 ---
 
-### 🙋‍♂️ Fun Fact
-> I’m the kind of developer who loves both cybersecurity and creative visual storytelling.
-
----
-
 > _Feel free to explore my repos, contribute, or just say hi!_
