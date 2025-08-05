@@ -19,6 +19,13 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
   <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere,aftereffects" />
 </p>
 
+
+---
+
+### 🛠️ Soft Skills
+
+> Teamwork • Problem Solving • Critical Thinking • Creativity • Leadership • Time Management • Adaptability • Effective Communication
+
 ---
 
 ### 📁 Work Experience
@@ -34,12 +41,6 @@ Directed cybersecurity simulations, penetration testing training, and internal C
 🎨 Graphic Designer — BengkuluEkspress.com
 Online News & Print Media Company
 Designed promotional visuals, social media content, and editorial graphics to support digital and print publications.
-
----
-
-### 🛠️ Soft Skills
-
-> Teamwork • Problem Solving • Critical Thinking • Creativity • Leadership • Time Management • Adaptability • Effective Communication
 
 ---
 
