@@ -57,7 +57,6 @@ I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, 
 - ✉️ Email: [alfaaora11@gmail.com](mailto:alfaaora11@gmail.com)  
 - 📱 WhatsApp: [+62 851 8051 8503](https://wa.me/6285180518503)  
 - 🌍 Location: Bengkulu, Indonesia  
-- 🔗 Portfolio / Web (optional): _(add if you have one)_  
 
 ---
 
