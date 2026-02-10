@@ -35,8 +35,20 @@ Issued by Certiport / Pearson VUE – Validates foundational Python programming 
 🌐 MTCNA – MikroTik Certified Network Associate
 Certified by MikroTik – Covers essential knowledge in networking, routing, and MikroTik RouterOS configuration.
 
-🔐 Ethical Hacking Fundamentals
-Completed a cybersecurity course focused on ethical hacking, penetration testing basics, and system vulnerability analysis.
+🔐 Ethical Hacker (Cisco Certified)
+Issued by Cisco – Validates proficiency in ethical hacking methodologies, penetration testing strategies, and in-depth analysis of system and network vulnerabilities
+
+⚖️ Certified GRC Analyst (CGRCA)
+Professional Certification – Demonstrates competency in Governance, Risk, and Compliance, ensuring security strategies align with industry regulations and standards.
+
+🤖 IBM Granite AI & Data Classification
+Issued by IBM SkillsBuild – Validates skills in data classification and the integration of AI technologies using the IBM Granite ecosystem.
+
+🛡️ Cybersecurity Fundamentals Specialist (CCFS)
+Specialist Certification – Focuses on the foundations of cybersecurity, digital threat mitigation, and data protection principles.
+
+🏆 National Achievement – Permikomnas Mini CTF
+Top 10 National Finalist (9th Place) – A national-level award proving technical capability in solving complex cybersecurity challenges under competitive pressure.
 
 ---
 
