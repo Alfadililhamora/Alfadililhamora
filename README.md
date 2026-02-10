@@ -24,7 +24,7 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ### 🛠️ Soft Skills
 
-> Teamwork • Problem Solving • Critical Thinking • Creativity • Leadership • Time Management • Adaptability • Effective Communication
+> Strategic Leadership • Analytical Problem Solving • Critical Thinking • Adaptive Creativity • DevSecOps Mindset • Time Management • Effective Communication • Continuous Learning
 
 ---
 
