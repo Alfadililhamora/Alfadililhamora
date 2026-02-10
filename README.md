@@ -8,7 +8,7 @@
 ---
 
 ### 📍 About Me
-I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security. I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 60+ members in exploring Robotics, IoT, and Cyber Security. I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
