@@ -54,17 +54,15 @@ Top 10 National Finalist (9th Place) – A national-level award proving technica
 
 ### 📁 Work Experience
 
-👨‍💼 President — De Code
-IT Programmer Community at Universitas Dehasen Bengkulu
-Led a university-based tech community by organizing workshops, mentoring bootcamp, and collaborative innovation projects.
+👨‍💼 President — DE CODE IT Programmer Community at Universitas Dehasen Bengkulu Led a university-based tech community of 70+ active members by directing Fullstack development projects, organizing technical workshops, and mentoring bootcamps in Robotics, IoT, and Cyber Security.
 
-🛡️ Cyber Security Team Leader — De Exploitz
-Student-led Cybersecurity Team
-Directed cybersecurity simulations, penetration testing training, and internal CTF competitions for skill development.
+🛡️ Cyber Security Team Leader — De Exploitz Student-led Cybersecurity Team Directed cybersecurity simulations, penetration testing training, and internal CTF competitions, leading the team to a Top 10 National finish in the Permikomnas Mini CTF.
 
-🎨 Graphic Designer — BengkuluEkspress.com
-Online News & Print Media Company
-Designed promotional visuals, social media content, and editorial graphics to support digital and print publications.
+🎨 Staff IT MCR & Multimedia — BengkuluEkspress.com Online News & Print Media Company Managed Master Control Room (MCR) system operations and broadcast infrastructure while designing promotional visuals and editorial graphics using Adobe Creative Suite.
+
+📰 Journalist — APKASINDO (Bengkulu Province) Professional Farmers Association Developed strategic reports and managed digital content publication for the official national-scale web platform, ensuring accurate distribution of sector-specific information.
+
+🌲 Field Staff / Journalist — KPHA Forest Management Group Managed technical documentation and reporting for national forums on water resource management in collaboration with the Ministry of Public Works and Housing (PUPR).
 
 ---
 
