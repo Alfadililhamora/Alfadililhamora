@@ -56,6 +56,8 @@ Top 10 National Finalist (9th Place) – A national-level award proving technica
 
 👨‍💼 President — DE CODE IT Programmer Community at Universitas Dehasen Bengkulu Led a university-based tech community of 70+ active members by directing Fullstack development projects, organizing technical workshops, and mentoring bootcamps in Robotics, IoT, and Cyber Security.
 
+🎓 Teaching Assistant — Faculty of Computer Science Universitas Dehasen Bengkulu Selected as a Technical Instructor to assist faculty members in delivering technology education programs, focusing on Cybersecurity strategies, threat mitigation, and practical data security for students and community outreach.
+
 🛡️ Cyber Security Team Leader — De Exploitz Student-led Cybersecurity Team Directed cybersecurity simulations, penetration testing training, and internal CTF competitions, leading the team to a Top 10 National finish in the Permikomnas Mini CTF.
 
 🎨 Staff IT MCR & Multimedia — BengkuluEkspress.com Online News & Print Media Company Managed Master Control Room (MCR) system operations and broadcast infrastructure while designing promotional visuals and editorial graphics using Adobe Creative Suite.
