@@ -8,7 +8,7 @@
 ---
 
 ### 📍 About Me
-I am a student at the Faculty of Computer Science, Dehasen University Bengkulu, with a strong interest in the development of science and technology, particularly in the field of computer technology. I have skills in Cyber Security (Penetration Testing), Web Development, and am currently learning about the Internet of Things (IoT). I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
