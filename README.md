@@ -8,7 +8,7 @@
 ---
 
 ### 📍 About Me
-I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills. As the President of **DE CODE**, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. As the President of **DE CODE**, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
@@ -17,11 +17,11 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ### 🏆 Key Achievements & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 * **Top 10 National Finalist (9th Place)** – Permikomnas Mini CTF.
@@ -30,15 +30,15 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ---
 
-### 📄 Certifications
-🐍 **IT Specialist – Python** | 🌐 **MTCNA** | 🔐 **Ethical Hacker** | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
-
----
-
 ### 🚀 Tech Stack & Tools
 <p align="left">
   <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere" />
 </p>
+
+---
+
+### 📄 Certifications
+🐍 **IT Specialist – Python** | 🌐 **MTCNA** | 🔐 **Ethical Hacker** | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
 
 ---
 
