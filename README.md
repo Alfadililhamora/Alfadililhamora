@@ -8,57 +8,72 @@
 ---
 
 ### 📍 About Me
-I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. As the President of **DE CODE**, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security. I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
 ---
 
-### 🏆 Achievements & Skills
+### 📊 GitHub Statistics
 <p align="center">
-  <img src="https://img.shields.io/badge/GPA-4.00%20%2F%204.00-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rank-9th%20National%20CTF-red?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-President%20of%20DE%20CODE-blue?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-informational?style=flat-square&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-IoT%20Development-success?style=flat-square&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Fullstack%20Dev-orange?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alfadillilhamora's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
 
-### 📄 Certifications
-* 🛡️ **Ethical Hacker** (Cisco Certified)
-* 🌐 **MTCNA** (MikroTik Certified Network Associate)
-* 🐍 **IT Specialist – Python** (Certiport)
-* ⚖️ **Certified GRC Analyst (CGRCA)**
-* 🤖 **IBM Granite AI & Data Classification**
+### 🏆 Achievements & Certifications
+
+**National Achievement – Permikomnas Mini CTF**
+Top 10 National Finalist (9th Place) – A national-level award proving technical capability in solving complex cybersecurity challenges under competitive pressure.
+
+🐍 **IT Specialist – Python (International Certification)**
+Issued by Certiport / Pearson VUE.
+
+🌐 **MTCNA – MikroTik Certified Network Associate**
+Certified by MikroTik.
+
+🔐 **Ethical Hacker (Cisco Certified)**
+Issued by Cisco.
+
+⚖️ **Certified GRC Analyst (CGRCA)**
+Professional Certification in Governance, Risk, and Compliance.
+
+🤖 **IBM Granite AI & Data Classification**
+Issued by IBM SkillsBuild.
+
+🛡️ **Cybersecurity Fundamentals Specialist (CCFS)**
+Focuses on the foundations of cybersecurity.
 
 ---
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere,aftereffects" />
 </p>
+
+---
+
+### 📁 Work Experience
+*(Bagian Work Experience tetap seperti milikmu sebelumnya...)*
 
 ---
 
 ### 📫 Let's Connect!
-<p align="left">
-<a href="mailto:alfaaora11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://wa.me/6285180518503"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-<a href="https://linkedin.com/in/alfadillilhamora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
+- ✉️ Email: [alfaaora11@gmail.com](mailto:alfaaora11@gmail.com)
+- 📱 WhatsApp: [+62 851 8051 8503](https://wa.me/6285180518503)
+- 🌍 Location: Bengkulu, Indonesia
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="80" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRza3JtcG5zdGx1bDNhdGczNWpiNWVqYXVrZDA0aThsZG5hdTBoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Anime Coding" width="350"/>
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="150" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding&fontSize=30" width="100%" />
+  <i>Feel free to explore my repos, contribute, or just say hi!</i>
 </p>
