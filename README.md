@@ -14,19 +14,27 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ---
 
-### 🏆 Key Achievements & Statistics
-
+### 🏆 Achievements & Skills
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://img.shields.io/badge/GPA-4.00%20%2F%204.00-success?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rank-9th%20National%20CTF-red?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Role-President%20of%20DE%20CODE-blue?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://img.shields.io/badge/Focus-Cyber%20Security-informational?style=flat-square&logo=kali-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-IoT%20Development-success?style=flat-square&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack%20Dev-orange?style=flat-square&logo=flutter&logoColor=white" />
 </p>
 
-* **Top 10 National Finalist (9th Place)** – Permikomnas Mini CTF.
-* **President of DE CODE** – Leading 70+ active members.
-* **Academic Excellence** – Perfect GPA **4.00/4.00**.
+---
+
+### 📄 Certifications
+* 🛡️ **Ethical Hacker** (Cisco Certified)
+* 🌐 **MTCNA** (MikroTik Certified Network Associate)
+* 🐍 **IT Specialist – Python** (Certiport)
+* ⚖️ **Certified GRC Analyst (CGRCA)**
+* 🤖 **IBM Granite AI & Data Classification**
 
 ---
 
@@ -37,23 +45,20 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ---
 
-### 📄 Certifications
-🐍 **IT Specialist – Python** | 🌐 **MTCNA** | 🔐 **Ethical Hacker** | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
-
----
-
 ### 📫 Let's Connect!
-- ✉️ Email: [alfaaora11@gmail.com](mailto:alfaaora11@gmail.com)
-- 🌍 Location: Bengkulu, Indonesia
+<p align="left">
+<a href="mailto:alfaaora11@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://wa.me/6285180518503"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="https://linkedin.com/in/alfadillilhamora"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
 
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/26960K2N_YIAAAAi/pixel-coding.gif" width="120" />
-  <img src="https://media.tenor.com/R_v0PAnB_70AAAAi/miku-dance.gif" width="120" />
-  <img src="https://media.tenor.com/p_r_m2p-k78AAAAi/cat-computer.gif" width="120" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="80" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="80" />
 </p>
 
 <p align="center">
-  <i>"Always Learning and Building"</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=120&section=footer&text=Keep%20Coding&fontSize=30" width="100%" />
 </p>
