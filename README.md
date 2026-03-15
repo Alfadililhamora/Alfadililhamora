@@ -17,16 +17,16 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ### 🏆 Key Achievements & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfadid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
 </p>
 
 * **Top 10 National Finalist (9th Place)** – Permikomnas Mini CTF.
-* **President of DE CODE** – Leading 70+ active members in tech projects.
-* **Academic Excellence** – Perfect GPA **4.00/4.00** at Universitas Dehasen.
+* **President of DE CODE** – Leading 70+ active members.
+* **Academic Excellence** – Perfect GPA **4.00/4.00**.
 
 ---
 
@@ -42,14 +42,6 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ---
 
-### 📁 Work Experience
-* **President** — DE CODE IT Programmer Community
-* **Teaching Assistant** — Faculty of Computer Science (Universitas Dehasen)
-* **Cyber Security Team Leader** — De Exploitz
-* **Staff IT MCR & Multimedia** — BengkuluEkspress.com
-
----
-
 ### 📫 Let's Connect!
 - ✉️ Email: [alfaaora11@gmail.com](mailto:alfaaora11@gmail.com)
 - 🌍 Location: Bengkulu, Indonesia
@@ -57,10 +49,9 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ---
 
 <p align="center">
-  <img src="https://assets.nexusmods.com/0/logos/6154.png" width="80" /> 
-  <br>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRnd3p6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRnd3p6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="150" />
+  <img src="https://media.tenor.com/26960K2N_YIAAAAi/pixel-coding.gif" width="120" />
+  <img src="https://media.tenor.com/R_v0PAnB_70AAAAi/miku-dance.gif" width="120" />
+  <img src="https://media.tenor.com/p_r_m2p-k78AAAAi/cat-computer.gif" width="120" />
 </p>
 
 <p align="center">
