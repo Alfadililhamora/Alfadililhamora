@@ -118,7 +118,7 @@ Managed technical documentation and reporting for national forums on water resou
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AkashRajpurohit/akashrajpurohit/master/assets/anime-coding.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
