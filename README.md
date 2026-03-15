@@ -118,7 +118,7 @@ Managed technical documentation and reporting for national forums on water resou
 ---
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" width="350"/>
+  <img src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif" width="350"/>
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
