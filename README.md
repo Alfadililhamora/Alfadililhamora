@@ -16,12 +16,12 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ### 📊 GitHub Productivity & Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfaaora&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alfadid's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaaora&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfadilihamora&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alfadid's GitHub Stats" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadilihamora&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alfaaora&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfadilihamora&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -79,9 +79,9 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/JpG88nN274w2AAmxVv/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="160" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/m6X8OatUfGVW0/giphy.gif" width="160" />
 </p>
 
 <p align="center">
