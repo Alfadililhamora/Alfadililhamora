@@ -118,7 +118,7 @@ Managed technical documentation and reporting for national forums on water resou
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" width="400"/>
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" width="320"/>
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
