@@ -30,6 +30,24 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 
 ---
 
+### 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=alfadililhamora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfadililhamora&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=alfadililhamora&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
 ### 📄 Certifications
 
 🐍 IT Specialist – Python (International Certification)
@@ -55,26 +73,6 @@ Issued by IBM SkillsBuild – Validates skills in data classification and the in
 🛡️ Cybersecurity Fundamentals Specialist (CCFS)
 
 Specialist Certification – Focuses on the foundations of cybersecurity, digital threat mitigation, and data protection principles.
-
----
-
-### 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=alfadililhamora&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfadililhamora&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=alfadililhamora&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 🏆 **National Achievement – Permikomnas Mini CTF**
 
