@@ -118,7 +118,7 @@ Managed technical documentation and reporting for national forums on water resou
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
+  <img src="https://media.tenor.com/2uyENRmiUt0AAAAC/anime-computer.gif" width="350"/>
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
