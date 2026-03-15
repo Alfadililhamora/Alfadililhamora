@@ -8,82 +8,59 @@
 ---
 
 ### 📍 About Me
-I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security. I continuously strive to improve my abilities and stay updated with the latest trends and innovations in the world of technology.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
 ---
 
-### 📊 GitHub Productivity & Stats
+### 🏆 Key Achievements & Statistics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Alfadilihamora&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Alfadid's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadilihamora&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=alfaaora&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfadid's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Alfadilihamora&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaaora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-
-### 🏆 Key Achievements
 * **Top 10 National Finalist (9th Place)** – Permikomnas Mini CTF.
 * **President of DE CODE** – Leading 70+ active members in tech projects.
 * **Academic Excellence** – Perfect GPA **4.00/4.00** at Universitas Dehasen.
-* **Technical Instructor** – Faculty Assistant for Cybersecurity & Threat Mitigation.
+
+---
 
 ### 📄 Certifications
-🐍 **IT Specialist – Python** (Certiport / Pearson VUE)
-🌐 **MTCNA – MikroTik Certified Network Associate**
-🔐 **Ethical Hacker** (Cisco Certified)
-⚖️ **Certified GRC Analyst (CGRCA)**
-🤖 **IBM Granite AI & Data Classification**
-🛡️ **Cybersecurity Fundamentals Specialist (CCFS)**
+🐍 **IT Specialist – Python** (Certiport) | 🌐 **MTCNA** (MikroTik) | 🔐 **Ethical Hacker** (Cisco) | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
 
 ---
 
 ### 🚀 Tech Stack & Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere,aftereffects" />
+  <img src="https://skillicons.dev/icons?i=kali,linux,vscode,html,css,js,mysql,python,cpp,flutter,figma,photoshop,illustrator,premiere" />
 </p>
 
 ---
 
-### 🛠️ Soft Skills
-> Strategic Leadership • Analytical Problem Solving • Critical Thinking • Adaptive Creativity • DevSecOps Mindset • Time Management • Effective Communication • Continuous Learning
-
----
-
 ### 📁 Work Experience
-
-👨‍💼 **President** — DE CODE IT Programmer Community
-🎓 **Teaching Assistant** — Faculty of Computer Science (Universitas Dehasen)
-🛡️ **Cyber Security Team Leader** — De Exploitz
-🎨 **Staff IT MCR & Multimedia** — BengkuluEkspress.com
-📰 **Journalist** — APKASINDO (Bengkulu Province)
-🌲 **Field Staff / Journalist** — KPHA Forest Management Group
-
----
-
-### 🎓 Education
-- **Universitas Dehasen Bengkulu** – Informatics (**GPA: 4.00/4.00**)
-- **SMKN 1 Bengkulu Selatan** – Visual Communication Design (**GPA: 3.80/4.00**)
+* **President** — DE CODE IT Programmer Community
+* **Teaching Assistant** — Faculty of Computer Science (Universitas Dehasen)
+* **Cyber Security Team Leader** — De Exploitz
+* **Staff IT MCR & Multimedia** — BengkuluEkspress.com
 
 ---
 
 ### 📫 Let's Connect!
 - ✉️ Email: [alfaaora11@gmail.com](mailto:alfaaora11@gmail.com)
-- 📱 WhatsApp: [+62 851 8051 8503](https://wa.me/6285180518503)
 - 🌍 Location: Bengkulu, Indonesia
 
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="160" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="160" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZidXN4Z3B0ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4ZzR4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/m6X8OatUfGVW0/giphy.gif" width="160" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="100" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
 </p>
 
 <p align="center">
-  <i>Feel free to explore my repos, contribute, or just say hi!</i>
+  <i>"Always Learning and Building"</i>
 </p>
