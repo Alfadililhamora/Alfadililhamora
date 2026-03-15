@@ -118,7 +118,7 @@ Managed technical documentation and reporting for national forums on water resou
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWRza3JtcG5zdGx1bDNhdGczNWpiNWVqYXVrZDA0aThsZG5hdTBoZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/KzJkzjggfGN5Py6nkT/giphy.gif" alt="Anime Coding" width="400"/>
+  <img src="https://i.imgur.com/6Iej2c3.png" alt="Anime Coding Girl" width="400"/>
 </p>
 
 > _Feel free to explore my repos, contribute, or just say hi!_
