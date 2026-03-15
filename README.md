@@ -8,19 +8,20 @@
 ---
 
 ### 📍 About Me
-I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills, allowing me to develop secure, scalable, and high-performance digital solutions. As the President of DE CODE, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
+I am a Computer Science student at Dehasen University Bengkulu with a focus on Cyber Security Architecture and Networking Infrastructure. I complement my security expertise with Fullstack Development skills. As the President of **DE CODE**, I lead a community of 70+ members in exploring Robotics, IoT, and Cyber Security.
 
 💬 *“Learning by doing, growing by building, and contributing with heart.”*
 
 ---
 
 ### 🏆 Key Achievements & Statistics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alfaaora&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfadid's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Alfadillilhamora&show_icons=true&theme=tokyonight&hide_border=true" alt="Alfadid's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfaaora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alfadillilhamora&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 * **Top 10 National Finalist (9th Place)** – Permikomnas Mini CTF.
@@ -30,7 +31,7 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ---
 
 ### 📄 Certifications
-🐍 **IT Specialist – Python** (Certiport) | 🌐 **MTCNA** (MikroTik) | 🔐 **Ethical Hacker** (Cisco) | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
+🐍 **IT Specialist – Python** | 🌐 **MTCNA** | 🔐 **Ethical Hacker** | ⚖️ **Certified GRC Analyst** | 🤖 **IBM Granite AI** | 🛡️ **Cybersecurity Fundamentals**
 
 ---
 
@@ -56,9 +57,10 @@ I am a Computer Science student at Dehasen University Bengkulu with a focus on C
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Cat%20Face.png" alt="Cat" width="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" alt="Writing" width="100" />
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="100" />
+  <img src="https://assets.nexusmods.com/0/logos/6154.png" width="80" /> 
+  <br>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRnd3p6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/mCRJDo24UvMMAalJCv/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmtpZzRnd3p6eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/L13VjT8zD755RInB0H/giphy.gif" width="150" />
 </p>
 
 <p align="center">
